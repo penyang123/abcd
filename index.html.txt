@@ -4,7 +4,7 @@
 
 <title>到阿里山坐火車</title>
 
-<head>
+</head>
 <center>
 
 <h1><font face"標楷體">阿里山之旅</font></h1>
