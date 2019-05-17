@@ -1,0 +1,25 @@
+﻿<html>
+<head>
+
+
+<title>到阿里山坐火車</title>
+
+<head>
+<center>
+
+<h1><font face"標楷體">阿里山之旅</font></h1>
+<h2><font face"微軟正黑體">山上的風景</font></h2>
+<img src="image/pic1.jpg" border="2" height="107" width="160">
+<img src="image/pic2.jpg" border="2" height="107" width="160">
+<br>
+<img src="image/pic3.jpg" border="2" height="107" width="160">
+<img src="image/pic4.jpg" border="2" height="107" width="160">
+<br>
+<font face="細明體">
+阿里山的櫻花佈滿整座山，真是美麗
+</font>
+
+
+</center>
+</body>
+</html>
